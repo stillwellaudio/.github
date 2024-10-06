@@ -1,6 +1,6 @@
 # Stillwell Audio Plugins
 
-Welcome to Stillwell Audio's official GitHub organization!
+Welcome to Stillwell Audio's official GitHub organization!  While many of our plugins are closed-source, any of our code that is open source will be found here
 
 ## About Us
 
@@ -38,6 +38,6 @@ We welcome contributions to improve the functionality and features of our plugin
 
 ## License
 
-All Stillwell Audio plugins require a license key for commercial use. Licenses can be purchased directly from our [store](https://www.stillwellaudio.com).
+Most Stillwell Audio plugins require a license key for use beyond its evaluation period. Licenses can be purchased directly from our [store](https://www.stillwellaudio.com).
 
 For more information about licensing and usage, visit our [Licensing page](https://www.stillwellaudio.com/licensing).
