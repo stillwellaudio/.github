@@ -1,43 +1,62 @@
-# Stillwell Audio Plugins
+# Stillwell Audio
 
-Welcome to Stillwell Audio's official GitHub organization!  While many of our plugins are closed-source, any of our code that is open source will be found here
+Professional audio plugins for mixing, mastering, and sound design.  
+Built with a focus on sound, longevity, and straightforward workflows.
 
-## About Us
+https://www.stillwellaudio.com/
 
-At Stillwell Audio, we specialize in developing high-quality audio plugins for mixing, mastering, and sound design. Our collection features a wide range of tools designed for audio professionals, from compressors and EQs to spectral analyzers and dither tools. Our plugins are known for their smooth performance, analog-style warmth, and flexibility, suitable for everything from delicate mixes to aggressive sound shaping.
+---
 
-Our popular plugins include:
+## About
 
-- **The Rocket**: A character compressor with ultra-fast response, ideal for taming transients and adding punch to your mixes.
-- **Bitter**: A bitscope and intersample clip monitor to ensure your digital audio maintains peak quality.
-- **1973**: A vintage-style EQ that provides transparency and precision in shaping your audio frequencies.
-- **Vibe-EQ**: Adds color and harmonic richness, giving your sound the character it deserves.
-- **Event Horizon**: A peak-eating limiter for transparent loudness without artifacts.
-  
-Explore our full lineup at [Stillwell Audio](https://www.stillwellaudio.com).
+Stillwell Audio has been developing audio plugins since 2006 with a simple philosophy:
 
-## Installation
+- No subscriptions  
+- No paid upgrades  
+- Free updates for existing customers  
+- Tools designed to be used, not managed  
 
-Stillwell Audio plugins are available for both macOS and Windows. The evaluation copies you download are fully functional and become licensed versions once you purchase a key. For more details on installation, licensing, and troubleshooting, visit our [support page](https://support.stillwellaudio.com).
+The goal is not feature quantity or visual novelty — just reliable tools that sound good and stay out of the way.
 
-### Quick Setup
+---
 
-1. Download the plugin installer for your operating system from our [website](https://www.stillwellaudio.com).
-2. Follow the instructions in the installer to place the plugin files in the appropriate directories.
-3. Place your purchased `.key` file in the same directory as the plugin to activate the full version.
+## This GitHub Organization
 
-For detailed instructions, visit our [installation guide](https://www.stillwellaudio.com/installation/).
+This organization contains:
+
+- Supporting infrastructure and tooling  
+- Public-facing utilities and experiments  
+- Forks of upstream dependencies used in development  
+- Shared code used across Stillwell Audio projects  
+
+Most commercial plugin source code is **not public**.
+
+If you are looking for plugins, downloads, or documentation, the website is the canonical source.
+
+---
+
+## Plugins, Downloads, and Documentation
+
+All product information, downloads, and manuals are available here:
+
+https://www.stillwellaudio.com/
+
+---
 
 ## Support
 
-If you encounter any issues or have questions about our plugins, feel free to reach out via our [support forum](https://forums.stillwellaudio.com) or open a support ticket on our [Support Center](https://support.stillwellaudio.com). We're always here to help!
+For support, licensing questions, or general inquiries:
 
-## Contributions
+- Support: https://support.stillwellaudio.com/  
+- Forum: https://forums.stillwellaudio.com/  
 
-We welcome contributions to improve the functionality and features of our plugins. Feel free to open a pull request or issue to contribute. Make sure to review our contribution guidelines before submitting.
+---
 
-## License
+## Notes
 
-Most Stillwell Audio plugins require a license key for use beyond its evaluation period. Licenses can be purchased directly from our [store](https://www.stillwellaudio.com).
+This repository space is primarily for development and technical resources.  
+It is not intended to be a full product catalog or user-facing distribution channel.
 
-For more information about licensing and usage, visit our [Licensing page](https://www.stillwellaudio.com/licensing).
+---
+
+_It’s about the sound._
