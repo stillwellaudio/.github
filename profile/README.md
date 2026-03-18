@@ -14,7 +14,7 @@ Stillwell Audio has been developing audio plugins since 2006 with a simple philo
 - No subscriptions  
 - No paid upgrades  
 - Free updates for existing customers  
-- Tools designed to be used -- not managed  
+- Tools designed to be used — not managed  
 
 The goal is not feature quantity or visual novelty — just reliable tools that sound good and stay out of the way.
 
