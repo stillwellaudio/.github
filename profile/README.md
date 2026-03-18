@@ -1,6 +1,6 @@
 # Stillwell Audio
 
-Professional audio plugins for mixing, mastering, and sound design.  
+Audio plugins for mixing, mastering, and sound design.  
 Built with a focus on sound, longevity, and straightforward workflows.
 
 https://www.stillwellaudio.com/
@@ -14,7 +14,7 @@ Stillwell Audio has been developing audio plugins since 2006 with a simple philo
 - No subscriptions  
 - No paid upgrades  
 - Free updates for existing customers  
-- Tools designed to be used, not managed  
+- Tools designed to be used -- not managed  
 
 The goal is not feature quantity or visual novelty — just reliable tools that sound good and stay out of the way.
 
@@ -26,7 +26,7 @@ This organization contains:
 
 - Supporting infrastructure and tooling  
 - Public-facing utilities and experiments  
-- Forks of upstream dependencies used in development  
+- Forks of upstream dependencies used internally  
 - Shared code used across Stillwell Audio projects  
 
 Most commercial plugin source code is **not public**.
